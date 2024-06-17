@@ -1,4 +1,1 @@
-# EnCiv
-[About](https://github.com/EnCiv/About)
-[Volunteers](https://github.com/EnCiv/Volunteers)
-
+The is where the EnCiv readme file is, and this repo is where enciv's wiki is.
